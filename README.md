@@ -1,1 +1,1 @@
-# tindog-site
+# tindog
